@@ -27,3 +27,7 @@ The workspace contains the following folders:
 - `src`: Contains the source code files (`Trolley.java`, `Engine.java`, `TrolleyTester.java`).
 - `lib`: Contains any external dependencies (if applicable).
 - `bin`: Contains the compiled output files.
+
+## Diagram:
+
+https://drive.google.com/file/d/17G3ob_9ePLA2bNsqpnn66DUKNEAJIA4N/view?usp=sharing
